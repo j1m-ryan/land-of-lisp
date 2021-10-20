@@ -9,3 +9,5 @@
 ;;;! lambda function is passed to mapcar
 
 (mapcar (lambda (n) (/ n 2)) '(2 4 6))
+
+(defparameter *college* "UL")
